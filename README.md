@@ -1,4 +1,4 @@
-# Recipes
+# Odin Recipes
 
 Basic HTML project to practice fundamental HTML skillset with simple food recipe website.
 
